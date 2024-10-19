@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form tags</title>
+</head>
+<body>
+  <h2>this is form tags</h2>
+    <form>
+    <div>
+        name : <input type="text" name="my name">
+    </div>
+    <br>
+    <div>
+        roll: <input type="text" placeholder="enter your roll no. :">
+    </div>
+    <br>
+    <div>
+        password : <input type="password" placeholder="enter your password">
+    </div>
+    <br>
+    <div>
+        are you clear my form : <input type="checkbox" >
+    </div>
+    <br>
+    <div>
+        number:<input type="number" id="" name="" >
+    </div>
+    <br>
+    <div>
+       gender : male<input type="radio" name="mygender" id=""> female <input type="radio" name="mygender" id="">others<input type="radio" name="mygender" id="">
+
+    </div>
+    <br>
+    <div>
+        write your feedback : <br> <textarea name="text area" width="50" height="50"></textarea>
+    </div>
+    <br>
+    <div>
+        <input type="date" placeholder="enter your date of birth">
+    </div>
+    <br>
+    <div>
+        <input type="color" >
+    </div>
+    <br>
+    <div>
+    <input type="submit" placeholder="submit" >
+    </div>
+    <br>
+    <div>
+    <input type="reset" placeholder="reset">
+    </div> 
+    <br>
+ </form>
+</body>
+</html>
